@@ -1,2 +1,0 @@
-# GonzaGomezPizarro.github.io
-Catalina
