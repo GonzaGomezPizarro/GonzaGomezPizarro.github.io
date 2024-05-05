@@ -26,7 +26,7 @@ const Componente = () => {
       {showGif ? (
         <>
           <p>Yupiii</p>
-          <img src="BullyMaguire.gif" alt="GIF" className=" mt-3" />
+          <img src="./BullyMaguire.gif" alt="GIF" className=" mt-3" />
         </>
       ) : (
         <div className="text-center">
