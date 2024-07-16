@@ -29,7 +29,7 @@ const Componente = () => {
           <img src="./BullyMaguire.gif" alt="GIF" className=" mt-3" />
         </>
       ) : (
-        <div className="text-center">
+        <div className="text-center text-black">
           <p className="text-2xl font-bold mb-4">Hola te extraño...</p>
           <p className="text-2xl font-bold mb-4">¿Vos me extrañas?</p>
           <div className="flex justify-center">
